@@ -1,0 +1,13 @@
+Variables:
+Es el contenedor de información mínimo guardar información espesifica.
+Strings:
+Cual quier caracter o cadena de caracter dentro de las comillas ''
+
+Funciones (argumentos, `return`)
+Las funciones son bloques de instruciones que podemos 
+ejecutar solo cuando las llamamos fuera del bloque
+Declaraciones `if`
+Son condisiones que nos permiten organizar la manera en que se ejecutan
+las instrucciones
+Valores booleanos (`true`, `false`)
+Son valores que sirven para afirmar o negar.
